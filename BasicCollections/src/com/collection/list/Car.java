@@ -1,4 +1,4 @@
-//class car
+//class car which contains all the fields and constructor and method
 package com.collection.list;
 
 public class Car {

@@ -1,3 +1,4 @@
+//HashMap to store all of our class students names and their favorite fruits
 package com.collection;
 
 import java.util.HashMap;
@@ -10,10 +11,10 @@ public class TestMap {
 	public static void main(String[] args) {
 		Map<String,String> map=new HashMap<>();
 		
-		map.put("Sayali", "Apple");
-		map.put("Siddhi", "Mango");
-		map.put("Nishad", "Grapes");
-		map.put("Drishti", "Watermelon");
+		map.put("sangeeta", "Apple");
+		map.put("deepak", "Mango");
+		map.put("chandrakala", "Grapes");
+		map.put("jayaprakasha", "Watermelon");
 		
 		Set<Entry<String,String>> set= map.entrySet();
 		

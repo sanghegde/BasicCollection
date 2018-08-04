@@ -1,3 +1,4 @@
+///class laptop which contains all the fields and constructor and method
 package com.collection.list;
 
 public class Laptop {
